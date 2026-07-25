@@ -1,0 +1,61 @@
+Category,Value,Factor,N,Mean,Std,Median
+Gender,MALE,Factor1,656,0.4151,2.4283,0.5104
+Gender,FEMALE,Factor1,475,-1.0268,2.0067,-1.7254
+Gender,MALE,Factor2,656,-0.2313,2.8804,-0.2948
+Gender,FEMALE,Factor2,475,0.1348,3.032,0.4206
+Gender,MALE,Factor3,656,-0.0365,2.8048,-0.0166
+Gender,FEMALE,Factor3,475,0.0216,2.6382,-0.1754
+Gender,MALE,Factor4,656,-0.1136,3.0884,-0.4552
+Gender,FEMALE,Factor4,475,0.1773,2.9731,-0.015
+Gender,MALE,Factor5,656,0.2219,2.9131,0.0631
+Gender,FEMALE,Factor5,475,-0.3419,2.2207,-0.2767
+Gender,MALE,Factor6,656,0.0675,2.6221,0.2118
+Gender,FEMALE,Factor6,475,-0.124,2.3475,-0.0756
+Cancer Status,TUMOR FREE,Factor1,672,-0.1362,2.3883,-0.941
+Cancer Status,WITH TUMOR,Factor1,329,-0.5265,2.2332,-1.3866
+Cancer Status,TUMOR FREE,Factor2,672,0.1486,2.9769,0.2224
+Cancer Status,WITH TUMOR,Factor2,329,-0.5565,2.8844,-0.5907
+Cancer Status,TUMOR FREE,Factor3,672,0.0362,2.7007,-0.0563
+Cancer Status,WITH TUMOR,Factor3,329,-0.0474,2.7708,-0.0779
+Cancer Status,TUMOR FREE,Factor4,672,0.0365,3.0351,-0.2886
+Cancer Status,WITH TUMOR,Factor4,329,-0.1772,3.1221,-0.2436
+Cancer Status,TUMOR FREE,Factor5,672,-0.1172,2.7388,-0.2197
+Cancer Status,WITH TUMOR,Factor5,329,0.199,2.6321,-0.0074
+Cancer Status,TUMOR FREE,Factor6,672,0.0366,2.5486,0.1079
+Cancer Status,WITH TUMOR,Factor6,329,-0.1246,2.317,-0.0092
+Best Response,Complete Remission/Response,Factor1,610,-0.2183,2.4263,-1.2656
+Best Response,Stable Disease,Factor1,65,-0.7171,2.1634,-1.5551
+Best Response,Progressive Disease,Factor1,224,-0.5682,2.1173,-1.3744
+Best Response,Partial Remission/Response,Factor1,15,-0.2362,3.3181,-2.0534
+Best Response,Complete Remission/Response,Factor2,610,0.1914,3.0267,0.3115
+Best Response,Stable Disease,Factor2,65,-0.093,3.15,-0.4967
+Best Response,Progressive Disease,Factor2,224,-0.697,2.7807,-0.656
+Best Response,Partial Remission/Response,Factor2,15,-1.2408,2.397,-0.3132
+Best Response,Complete Remission/Response,Factor3,610,0.0732,2.7452,-0.0554
+Best Response,Stable Disease,Factor3,65,0.5462,2.1364,0.9782
+Best Response,Progressive Disease,Factor3,224,-0.1632,2.7538,-0.2567
+Best Response,Partial Remission/Response,Factor3,15,0.1804,2.5922,-0.4397
+Best Response,Complete Remission/Response,Factor4,610,0.0861,3.0568,-0.2274
+Best Response,Stable Disease,Factor4,65,0.4842,3.0746,0.0087
+Best Response,Progressive Disease,Factor4,224,-0.572,2.8376,-0.5516
+Best Response,Partial Remission/Response,Factor4,15,1.6613,2.7457,1.5064
+Best Response,Complete Remission/Response,Factor5,610,-0.1147,2.6847,-0.1857
+Best Response,Stable Disease,Factor5,65,-0.1831,2.7688,-0.3221
+Best Response,Progressive Disease,Factor5,224,0.4463,2.6001,0.2292
+Best Response,Partial Remission/Response,Factor5,15,0.2178,2.6964,0.1583
+Best Response,Complete Remission/Response,Factor6,610,-0.0412,2.4402,-0.0092
+Best Response,Stable Disease,Factor6,65,-0.3804,2.4396,0.1263
+Best Response,Progressive Disease,Factor6,224,-0.0021,2.3451,-0.0934
+Best Response,Partial Remission/Response,Factor6,15,-0.2564,3.1718,0.5016
+Vital Status,LIVING,Factor1,675,-0.3096,2.4138,-1.3934
+Vital Status,DECEASED,Factor1,456,-0.0141,2.2934,-0.6429
+Vital Status,LIVING,Factor2,675,0.0723,3.0069,0.0116
+Vital Status,DECEASED,Factor2,456,-0.2993,2.8507,-0.1755
+Vital Status,LIVING,Factor3,675,0.1632,2.6482,0.1056
+Vital Status,DECEASED,Factor3,456,-0.2715,2.8418,-0.3934
+Vital Status,LIVING,Factor4,675,0.0727,3.0028,-0.2429
+Vital Status,DECEASED,Factor4,456,-0.0865,3.1014,-0.2909
+Vital Status,LIVING,Factor5,675,-0.1242,2.72,-0.2078
+Vital Status,DECEASED,Factor5,456,0.1469,2.5579,0.0252
+Vital Status,LIVING,Factor6,675,-0.025,2.5067,0.1068
+Vital Status,DECEASED,Factor6,456,0.0049,2.5204,0.0885

@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (Download separately via instructions)
+*.gz
+dataset/*.gz
+dataset/*.rds
+dataset/*.h5
+dataset/*.csv
+
+# Temporary R plots & history
+.Rhistory
+Rplots.pdf
+.Rproj.user/
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store
+
+# Office temp locks
+~$*.docx
